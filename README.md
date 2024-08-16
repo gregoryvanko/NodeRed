@@ -18,3 +18,9 @@ Download file with:
 ```
 wget -qO- https://github.com/gregoryvanko/NodeRedDocker/archive/refs/tags/v1.tar.gz | tar xvz
 ```
+
+Créer le container docker
+```
+cd NodeRedDocker-1
+docker compose up
+```
